@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FabioCanavarro&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Beautiful Quote
+### ✍️ A Beautiful Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
