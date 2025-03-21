@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FabioCanavarro&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Contribution Graph
+## 🐍 Snek graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioCanavarro/FabioCanavarro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabioCanavarro/FabioCanavarro/output/github-contribution-grid-snake.svg">
