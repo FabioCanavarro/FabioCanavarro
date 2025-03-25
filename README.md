@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FabioCanavarro&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=149&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FabioCanavarro&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
-
 # 🐍 Snek graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioCanavarro/FabioCanavarro/output/github-contribution-grid-snake-dark.svg">
