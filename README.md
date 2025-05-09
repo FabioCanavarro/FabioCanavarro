@@ -22,11 +22,6 @@
 </a>
 <br/>
 
-# 📌 Pinned Repositories
-<a href="https://github.com/FabioCanavarro/UnitOs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FabioCanavarro&repo=UnitOS&theme=catppuccin_mocha&hide_border=false" />
-</a>
-
 # 🐍 Snek graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabioCanavarro/FabioCanavarro/output/github-contribution-grid-snake-dark.svg">
