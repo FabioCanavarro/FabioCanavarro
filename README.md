@@ -15,10 +15,10 @@
   <img align="center" src="https://raw.githubusercontent.com/FabioCanavarro/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/FabioCanavarro/">
-  <img align="center" src="https://raw.githubusercontent.com/FabioCanavarro/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=149&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 </a>
 <a href="https://github.com/FabioCanavarro/">
-  <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=149&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+  <img align="center" src="https://raw.githubusercontent.com/FabioCanavarro/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </a>
 <br/>
 
