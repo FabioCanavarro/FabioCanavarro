@@ -15,7 +15,7 @@
   <img align="center" src="https://raw.githubusercontent.com/FabioCanavarro/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/FabioCanavarro/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FabioCanavarro&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-fabio-canavarros-projects.vercel.app/api?username=FabioCanavarro&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=false" />
 </a> 
 <a href="https://github.com/FabioCanavarro/">
   <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=149&api_domain=hackatime.hackclub.com&theme=omni&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
